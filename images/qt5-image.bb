@@ -37,7 +37,6 @@ QT5_PKGS = " \
     qt3d \
     qtcharts \
     qtdeclarative \
-    qtdeclarative-plugins \
     qtdeclarative-qmlplugins \
     qtgraphicaleffects \
     qtlocation-plugins \
